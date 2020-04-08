@@ -34,7 +34,7 @@ export default {
     font-size: 3rem;
     color: #526488;
   }
-  .header .ul {
+  .header ul {
     display: flex;
   }
   .header a {
